@@ -9,7 +9,7 @@ Designed on Blender 2.91
 - Rectangle
 - Pentagon
 - Hexagon
-- Octogon
+- Octagon
 - Circle
 
 #Utility
